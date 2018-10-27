@@ -83,6 +83,7 @@
 	width: 70%;
 	padding-right: 20px;
 }
+
 .product_image img
 {
 	max-width: 100%;
@@ -130,6 +131,7 @@
 	margin-top: 100px;
 	margin-left: 10px;
 }
+
 .buy_page{
 	margin-top: 100px;
 
@@ -167,4 +169,12 @@ button {
 	-webkit-transition: 0.3s;
 	-moz-transition: 0.3s;
   }
-
+.email_user{
+	width: 70%;
+}
+.password_user{
+	width: 70%;
+}
+.Sign_in{
+	width: 20%;
+}
