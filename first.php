@@ -17,7 +17,7 @@
         <div class="col-4"> </div>
         <div class="col-4" style="text-align: center;">
             <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
-            <button type="button" class="btn btn-primary" style="width:150px;height:60px;">สั่งซื้อ</button>
+            <a href="tt/PJ/first_buy.php"><button type="button" class="btn btn-primary" style="width:150px;height:60px;">สั่งซื้อ</button></a>
             &nbsp;&nbsp;&nbsp;&nbsp;
 
             <button type="button" id="sell_user" class="btn btn-success" style="width:150px;height:60px;">ลงขาย
