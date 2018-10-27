@@ -1,6 +1,14 @@
+
 function signup() {
+  
+ 
+    alert("ลงทะเบียนเรียบร้อยแล้ว")
+  
   var email = document.getElementById("email_f").value;
   var password = document.getElementById("password_f").value;
+  document.getElementById("Sign_up").style.display = "none";
+  document.getElementById("close").style.display = "block";
+  
   firebase.auth().createUserWithEmailAndPassword(email, password).catch(function (error) {
     // Handle Errors here.
     var errorCode = error.code;
@@ -14,6 +22,9 @@ function signup() {
       })
       .catch(function (error) {
         // Some error occurred, you can inspect the code: error.code
+        
       });
   });
+  
+ 
 }
