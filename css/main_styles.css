@@ -9,7 +9,7 @@ body, html {
 	padding-right: 200px;
 	margin-top: 200px;
 }
-.header
+.header 
 {
 	position: fixed;
 	top: 0;
@@ -189,7 +189,16 @@ button {
 	width: 20%;
 }
 
-
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
 
 .recent
 {
@@ -366,6 +375,7 @@ button {
 	top: -97px;
 	right: 15px;
 }
+
 .recent_slider_nav
 {
 	width: 32px;

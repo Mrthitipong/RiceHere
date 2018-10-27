@@ -28,3 +28,9 @@ function signup() {
   
  
 }
+function sendEmail(){
+ 
+  
+  firebase.auth().currentUser.sendEmailVerification().then(function(){
+  });
+}

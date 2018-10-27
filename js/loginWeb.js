@@ -1,40 +1,35 @@
 function login() {
-    firebase.auth().onAuthStateChanged(function (user) {
+    firebase.auth().onAuthStateChanged(function(user) {
         if (user) {
-            console.log("Wellcome");
-                document.location.href="./tt/PJ/after_login_sell.php";
-            if (user != null) {
-
-                var email_id = user.email;
-                document.getElementById("user_para").innerHTML = "Welcome User : " + email_id;
-               
-            }
-
+          // User is signed in.
+      
+          var user = firebase.auth().currentUser;
+      
+          if(user != null){
+            document.location.href="./tt/PJ/after_login_sell.php";
+            var email_id = user.email;
+            document.getElementById("user_para").innerHTML = "Welcome User : " + email_id;
+      
+          }
+      
         } else {
-
-            var email = document.getElementById("email").value;
-            var password = document.getElementById("password").value;
-            if (email.length < 4) {
-                alert('Please enter an email address.');
-                return;
-            }
-            if (password.length < 4) {
-                alert('Please enter a password.');
-                return;
-            }
-            firebase.auth().signInWithEmailAndPassword(email, password).catch(function (error) {
-                // Handle Errors here.
-                var errorCode = error.code;
-                var errorMessage = error.message;
-
-                window.alert("Error : " + errorMessage);
-
-                // ...
+            var userEmail = document.getElementById("email").value;
+            var userPass = document.getElementById("password").value;
+          
+            firebase.auth().signInWithEmailAndPassword(userEmail, userPass).catch(function(error) {
+              // Handle Errors here.
+              var errorCode = error.code;
+              var errorMessage = error.message;
+          
+              window.alert("Error : " + errorMessage);
+          
+              // ...
             });
-
-
+      
         }
-    });
+      });
+    
+  
 }
 
 function logout() {

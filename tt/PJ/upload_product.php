@@ -52,6 +52,9 @@
 
     <div class="row">
 <<<<<<< HEAD
+        <div class="col-6">
+=======
+<<<<<<< HEAD
         <div class="col-10">
             <div style="padding-left:20px;">
             <form class="form-inline">
@@ -83,20 +86,53 @@
             </div>
 =======
         <div class="col-7">
+>>>>>>> origin/master
             <ul style="list-style-type:none">
-                <form action="#">
-                <li > เลือกประเภท</li>
-                    
-                   
-                </form> 
+           
+             <br>
                 <li>เลือกประเภท</li>
+                <select class="select_buy" style=" width:70%">
+                <option value="คิวบ์">คิวบ์</option>
+                <option value="กระสอบ">กระสอบ</option>
+                <option value="ตัน">ตัน</option>
+                </select> 
+                <br> <br>
                 <li>ระบุจำนวน</li>
+                <input class="email_user"  type="text" name="uname">
+                <br>
+                <br>
                 <li>ระบุราคาต่อหน่วย</li>
+<<<<<<< HEAD
+                <input class="email_user"  type="text" name="uname">
+                </ul> 
+                </div>
+                <div class="col-6">
+                
+                <form>
+                <fieldset class="ffset" form="form1"> 
+                <div>ภาพสินค้า</div>
+                <br>
+                <button type="button" >ใส่รูปภาพ</button>
+                <br>
+                </fieldset>   
+                </form>      
+                <form>
+                <fieldset class="ffset" form="form1"> 
+                <div>คำอธิบายสินค้า</div>
+                <br>
+                    <input type="text" style=" width:500px;  height: 200px;" >
+                </fieldset>   
+                </form>   
+                <button type="button" >ส่ง</button>
+                </div>
+                
+=======
                 <li>ภาพสินค้า</li>
                 <li>คำอธิบายสินค้า</li>
             </ul>  
 >>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403
 
+>>>>>>> origin/master
         </div>
     </div>
 
