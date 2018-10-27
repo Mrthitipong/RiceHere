@@ -1,4 +1,14 @@
 @charset "utf-8";
+body, html {
+	height: 100%;
+	weight: 100%;
+}
+.img_form
+{
+	padding-left: 200px;
+	padding-right: 200px;
+	margin-top: 200px;
+}
 .header
 {
 	position: fixed;
@@ -473,5 +483,8 @@
 .recent_slider_nav:hover i
 {
 	color: #FFFFFF;
+}
+.img_form{
+
 }
 
