@@ -16,6 +16,7 @@
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
+
 .header_content
 {
 	height: 80px;
@@ -25,6 +26,7 @@
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
 }
+
 .header.scrolled
 {
 	background: rgba(63,111,206,0.85);
@@ -45,7 +47,7 @@
 {
 	margin-left: 140px;
 }
-.main_nav ul li
+.main_nav ul li 
 {
 	display: inline-block;
 }
@@ -53,7 +55,7 @@
 {
 	margin-right: 70px;
 }
-.main_nav ul li a
+.main_nav ul li a ,h5
 {
 	font-size: 16px;
 	font-weight: 400;
@@ -169,12 +171,40 @@ button {
 	-webkit-transition: 0.3s;
 	-moz-transition: 0.3s;
   }
-.email_user{
+.email_user ,.password_user ,.Phone_number{
 	width: 70%;
 }
-.password_user{
-	width: 70%;
-}
-.Sign_in{
+.Sign_in ,.Sign_up{
 	width: 20%;
 }
+
+/*footer*/
+
+	footer.container-fluid.text-center.foot {
+		background: #383838;
+	}
+	
+	.dark-line{
+	border-top: 1px solid #525252;
+	}
+	
+	.white-txt{
+	color: #FFF;
+	}
+	
+	
+	a.link {
+		color: #008acc;
+		border: 1px #008acc solid;
+		padding: 5px;
+		text-decoration: none;
+	}
+	
+	a.link:hover {
+	background: #008acc;
+		color: #383838;
+	}
+	
+	.footimg{
+	width: 5rem;
+	}
