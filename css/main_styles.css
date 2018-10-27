@@ -188,10 +188,7 @@ button {
 	width: 20%;
 }
 
-<<<<<<< HEAD
-/*********************************
-7. Recent Properties
-*********************************/
+
 
 .recent
 {
@@ -404,13 +401,19 @@ button {
 {
 	color: #FFFFFF;
 }
-.img_form{
 
-}
-=======
+
 /*footer*/
->>>>>>> b17f39558c3e7f4c568941157a234e5e3790f32d
 
+.copyrights{
+	height: 180px;
+	-webkit-transition: all 200ms ease;
+	-moz-transition: all 200ms ease;
+	-ms-transition: all 200ms ease;
+	-o-transition: all 200ms ease;
+	transition: all 200ms ease;
+	}
+	
 	footer.container-fluid.text-center.foot {
 		background: #383838;
 	}
