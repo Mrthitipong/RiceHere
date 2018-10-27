@@ -51,7 +51,42 @@
 <hr>
 
     <div class="row">
+<<<<<<< HEAD
         <div class="col-6">
+=======
+<<<<<<< HEAD
+        <div class="col-10">
+            <div style="padding-left:20px;">
+            <form class="form-inline">
+                <div  class="form-group">
+                เลือกประเภท  &nbsp;<input type="text"><br>
+                </div>
+                <br>
+                <div  class="form-group">
+                ระบุจำนวน &nbsp;
+                <input type="text" name="lastname"><br>
+                </div>
+                <br>
+                <div  class="form-group">
+                 ระบุราคาต่อหน่วย &nbsp;
+                 <input type="text" name="lastname"><br>
+                 </div>
+                 <br>
+                 <div  class="form-group">
+                 ภาพสินค้า &nbsp;
+                 <input type="text" name="lastname"><br>
+                 </div>
+                 <br>
+                 <div  class="form-group">
+                 คำอธิบายสินค้า &nbsp;
+                 <input type="text" name="lastname"><br>
+                </div>
+            </form>
+        
+            </div>
+=======
+        <div class="col-7">
+>>>>>>> origin/master
             <ul style="list-style-type:none">
            
              <br>
@@ -67,6 +102,7 @@
                 <br>
                 <br>
                 <li>ระบุราคาต่อหน่วย</li>
+<<<<<<< HEAD
                 <input class="email_user"  type="text" name="uname">
                 </ul> 
                 </div>
@@ -90,6 +126,13 @@
                 <button type="button" >ส่ง</button>
                 </div>
                 
+=======
+                <li>ภาพสินค้า</li>
+                <li>คำอธิบายสินค้า</li>
+            </ul>  
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403
+
+>>>>>>> origin/master
         </div>
     </div>
 

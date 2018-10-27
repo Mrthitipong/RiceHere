@@ -152,7 +152,7 @@
                     <hr>
                     <br>
                                           
-                    <button type="button" class="btn btn-primary" style="width:80px;">ชำระเงิน</button>
+                    <a href="../../credit.php"><button type="button" class="btn btn-primary" style="width:80px;">ชำระเงิน</button></a>
             </div>
 
         </div>

@@ -67,7 +67,15 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/1.jpg" width="350px" height="300px" ></a> 
                 <br>
+<<<<<<< HEAD
                 <i>ข้าวหอมมะลิ</i><br>
+=======
+<<<<<<< HEAD:tt/PJ/first_buy.php
+                <i>ข้าวหอมมมะลิ</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
+>>>>>>> origin/master
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_1.php"><button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -76,7 +84,15 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/2.jpg"  width="350px" height="300px"></a>
                 <br>
+<<<<<<< HEAD
                 <i>ข้าวหอมเพื่อสุขภาพ</i><br>
+=======
+<<<<<<< HEAD:tt/PJ/first_buy.php
+                <i>ข้าวเพื่อสุขภาพ</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
+>>>>>>> origin/master
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_2.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -98,7 +114,15 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/4.jpg" width="350px" height="300px" ></a> 
                 <br>
+<<<<<<< HEAD
                 <i>ข้าวหอมกล้อง</i><br>
+=======
+<<<<<<< HEAD:tt/PJ/first_buy.php
+                <i>ข้าวกล้อง</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
+>>>>>>> origin/master
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_4.php">  <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -116,7 +140,15 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/6.jpg"  width="350px" height="300px"></a>
                 <br>
+<<<<<<< HEAD
                             <i>ข้าวหอมไรซ์เบอรี่</i><br>
+=======
+<<<<<<< HEAD:tt/PJ/first_buy.php
+                            <i>ข้าวไรซ์เบอร์่</i><br>
+=======
+                            <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
+>>>>>>> origin/master
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_6.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                        

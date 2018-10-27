@@ -63,7 +63,7 @@
 
 						<form action="#" id="product_form" class="product_form">
 							<br>
-							<div class="product_name">ข้าวหอม</div>
+							<div class="product_name">ข้าวหอมมะลิ</div>
 							<div class="product_price">150.00 บาท</div>
 							<fieldset>
 								<div class="product_description"><i>สายพันธุ์ข้าวที่มีถิ่นกำเนิดในประเทศไทย <br>มีลักษณะกลิ่นหอมคล้ายใบเตย <br>
