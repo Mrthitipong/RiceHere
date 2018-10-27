@@ -1,0 +1,73 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.bg {
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+/* Green */
+.success {
+    border-color: #4CAF50;
+    color: green;
+}
+
+.success:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    color: rgb(252, 253, 253);
+}
+
+.container {
+    position: relative;
+    width: 100%;
+  }
+
+.container logo {
+    width: 100%;
+    height: auto;
+  }
+
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 20px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container .btnbuy {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 20px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .container .btn:hover {
+    background-color: rgb(4, 173, 252);
+  }
+
+  .container .btnbuy:hover {
+    background-color: rgb(4, 173, 252);
+  }
+  
