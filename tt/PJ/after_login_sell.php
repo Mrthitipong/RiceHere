@@ -31,7 +31,7 @@
                     <div class="col-5" align="right" style="color:white;">
                     <br>
                         
-                            <a>กลับหน้าหลัก</a>
+                            <a href="../../first.php">กลับหน้าหลัก</a>
                         
                     </div>
 
@@ -54,10 +54,10 @@
 
 <div class="row" style="height:100px;">
     <div class="col-6" align="right"  >
-    <button type="button" class="btn btn-success" style="width:150px;">ลงขายสินค้า</button>
+    <a href="upload_product.php"><button type="button" class="btn btn-success" style="width:150px;">ลงขายสินค้า</button></a>
     </div>
     <div class="col-6">
-    <button type="button" class="btn btn-success" style="width:150px;">ดูยอดขาย</button>
+    <a href="sales_report.php" ><button type="button" class="btn btn-success" style="width:150px;">ดูยอดขาย</button></a>
     </div>
 </div>
            

@@ -19,7 +19,7 @@
                             </div>
                             <div class="main_nav">
                                 <ul>
-                                    <li class="active"><a href="index.html">หน้าหลัก</a></li>
+                                    <li class="active"><a href="../../first.php">หน้าหลัก</a></li>
                                     <li><a href="#">เกี่ยวกับเรา</a></li>
                                     <li><a href="#">ติดต่อเรา</a></li>
                                 </ul>
@@ -37,7 +37,7 @@
 <br>
 <br>
 <div style="padding-left :40px;">
-        <button type="button" class="btn btn-primary" style="width:120px;">< ย้อนกลับ</button>
+        <a href="first_buy.php"><button type="button" class="btn btn-primary" style="width:120px;">< ย้อนกลับ</button></a>
         <br>
         <br>
 

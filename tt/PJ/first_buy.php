@@ -19,7 +19,7 @@
                             </div>
                             <div class="main_nav">
                                 <ul>
-                                    <li class="active"><a href="index.html">หน้าหลัก</a></li>
+                                    <li class="active"><a href="../../first.php">หน้าหลัก</a></li>
                                     <li><a href="#">เกี่ยวกับเรา</a></li>
                                     <li><a href="#">ติดต่อเรา</a></li>
                                 </ul>
@@ -41,7 +41,7 @@
         <br>
           <h4>ตัวเลือกสินค้า</h4>
             <hr>
-            <ul>    
+            <ul style="list-style-type:none">    
             <li>ทั้งหมด</li>
             <li>ข้าวหอมมะลิ</li>
             <li>ข้าวเหนียว</li>
@@ -60,29 +60,29 @@
           <div class="col-10">
             <div class="row">
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/j.jpg" width="350px" height="300px" ></a> 
+                <a href="#" ><img src="../../images/1.jpg" width="350px" height="300px" ></a> 
                 <br>
-                <i>ข้าวหอมมะลิ</i><br>
+                <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_1.php"><button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
                 </div>
                 
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/wh.jpg"  width="350px" height="300px"></a>
+                <a href="#" ><img src="../../images/2.jpg"  width="350px" height="300px"></a>
                 <br>
-                <i>ข้าวหอมมะลิ</i><br>
+                <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_2.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
                 </div>
 
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/ri.jpg"  width="350px" height="300px"></a>
+                <a href="#" ><img src="../../images/3.jpg"  width="350px" height="300px"></a>
                 <br>
-                            <i>ข้าวหอมมะลิ</i><br>
+                            <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_3.php">  <button type="button" class="btn btn-primary">ซื้อ</button></a>
                        
                         <br>
                 </div>
@@ -91,29 +91,29 @@
 <hr>
              <div class="row">
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/j.jpg" width="350px" height="300px" ></a> 
+                <a href="#" ><img src="../../images/4.jpg" width="350px" height="300px" ></a> 
                 <br>
-                <i>ข้าวหอมมะลิ</i><br>
+                <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_4.php">  <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
                 </div>
                 
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/wh.jpg"  width="350px" height="300px"></a>
+                <a href="#" ><img src="../../images/5.jpg"  width="350px" height="300px"></a>
                 <br>
-                <i>ข้าวหอมมะลิ</i><br>
+                <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_5.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
                 </div>
 
                 <div class="col-4" align="center">
-                <a href="#" ><img src="../images/ri.jpg"  width="350px" height="300px"></a>
+                <a href="#" ><img src="../../images/6.jpg"  width="350px" height="300px"></a>
                 <br>
-                            <i>ข้าวหอมมะลิ</i><br>
+                            <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
-                            <button type="button" class="btn btn-primary">ซื้อ</button>
+                            <a href="../../Product_6.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                        
                         <br>
                         <br>
