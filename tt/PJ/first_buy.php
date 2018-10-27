@@ -62,7 +62,11 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/1.jpg" width="350px" height="300px" ></a> 
                 <br>
+<<<<<<< HEAD:tt/PJ/first_buy.php
                 <i>ข้าวหอมมมะลิ</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_1.php"><button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -71,7 +75,11 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/2.jpg"  width="350px" height="300px"></a>
                 <br>
+<<<<<<< HEAD:tt/PJ/first_buy.php
                 <i>ข้าวเพื่อสุขภาพ</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_2.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -80,7 +88,7 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/3.jpg"  width="350px" height="300px"></a>
                 <br>
-                            <i>ข้าวหอมมะลิ</i><br>
+                            <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_3.php">  <button type="button" class="btn btn-primary">ซื้อ</button></a>
                        
@@ -93,7 +101,11 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/4.jpg" width="350px" height="300px" ></a> 
                 <br>
+<<<<<<< HEAD:tt/PJ/first_buy.php
                 <i>ข้าวกล้อง</i><br>
+=======
+                <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_4.php">  <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -102,7 +114,7 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/5.jpg"  width="350px" height="300px"></a>
                 <br>
-                <i>ข้าวหอมมะลิ</i><br>
+                <i>ข้าวหอม</i><br>
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_5.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                 <br>
@@ -111,7 +123,11 @@
                 <div class="col-4" align="center">
                 <a href="#" ><img src="../../images/6.jpg"  width="350px" height="300px"></a>
                 <br>
+<<<<<<< HEAD:tt/PJ/first_buy.php
                             <i>ข้าวไรซ์เบอร์่</i><br>
+=======
+                            <i>ข้าวหอม</i><br>
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403:tt/PJ/first_buy.php
                             <i> 150.00 บาท </i><br><br>
                             <a href="../../Product_6.php"> <button type="button" class="btn btn-primary">ซื้อ</button></a>
                        

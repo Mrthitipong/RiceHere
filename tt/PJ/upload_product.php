@@ -51,6 +51,7 @@
 <hr>
 
     <div class="row">
+<<<<<<< HEAD
         <div class="col-10">
             <div style="padding-left:20px;">
             <form class="form-inline">
@@ -80,6 +81,21 @@
             </form>
         
             </div>
+=======
+        <div class="col-7">
+            <ul style="list-style-type:none">
+                <form action="#">
+                <li > เลือกประเภท</li>
+                    
+                   
+                </form> 
+                <li>เลือกประเภท</li>
+                <li>ระบุจำนวน</li>
+                <li>ระบุราคาต่อหน่วย</li>
+                <li>ภาพสินค้า</li>
+                <li>คำอธิบายสินค้า</li>
+            </ul>  
+>>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403
 
         </div>
     </div>
