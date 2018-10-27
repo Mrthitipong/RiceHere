@@ -45,7 +45,7 @@
                             <div class="col-6" align="center" >
                         <button onclick="loginGoogle()" id="Sign_google" > GOOGLE </button><br><br></div>
                         <div class="col-6">
-                                <button class="sign_up_f" align="center" id="Sign_up1">FACEBOOK</button>
+                                <button onclick="loginFacebook()" class="sign_up_f" align="center"  id="Sign_up1">FACEBOOK</button>
                             </div>
 
                     </div>
@@ -73,6 +73,7 @@
             <img class="footimg" src="images/logo.png" alt="Logo">
             <hr class="dark-line">
             <h5 class="active">อีเมล : ricehere.buu@gmail.com </h5>
+            <div id="user_para">fff</div>
             <h5 class="active">โทร : 0853939908</h5>
             <p class="white-txt small">
                 ซื้อง่าย ขายข้าว จากชาวนาคุณภาพ นึกถึง Rice Here
@@ -114,6 +115,23 @@
         var credential = error.credential;
         // ...
       });
+    }
+      var provider = new firebase.auth.FacebookAuthProvider();
+        function loginFacebook() {
+        firebase.auth().signInWithPopup(provider).then(function(result) {
+            var token = result.credential.accessToken;
+        
+            var user = result.user;
+        }).catch(function(error) {
+            // Handle Errors here.
+            var errorCode = error.code;
+            var errorMessage = error.message;
+            // The email of the user's account used.
+            var email = error.email;
+            // The firebase.auth.AuthCredential type that was used.
+            var credential = error.credential;
+            // ...
+        });
     }
 </script>
 <script>

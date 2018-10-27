@@ -141,13 +141,13 @@
             </div>
 
              <div class="col-6" align="center">
-                   150.00
+                   300.00
                    <br>
                  
                    ฟรี
                    <br>
                    <hr>
-                    150.00
+                    300.00
                     <br>
                     <hr>
                     <br>

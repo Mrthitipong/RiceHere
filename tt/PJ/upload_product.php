@@ -51,20 +51,45 @@
 <hr>
 
     <div class="row">
-        <div class="col-7">
+        <div class="col-6">
             <ul style="list-style-type:none">
-                <form action="#">
-                <li > เลือกประเภท</li>
-                    
-                   
-                </form> 
+           
+             <br>
                 <li>เลือกประเภท</li>
+                <select class="select_buy" style=" width:70%">
+                <option value="คิวบ์">คิวบ์</option>
+                <option value="กระสอบ">กระสอบ</option>
+                <option value="ตัน">ตัน</option>
+                </select> 
+                <br> <br>
                 <li>ระบุจำนวน</li>
+                <input class="email_user"  type="text" name="uname">
+                <br>
+                <br>
                 <li>ระบุราคาต่อหน่วย</li>
-                <li>ภาพสินค้า</li>
-                <li>คำอธิบายสินค้า</li>
-            </ul>  
-
+                <input class="email_user"  type="text" name="uname">
+                </ul> 
+                </div>
+                <div class="col-6">
+                
+                <form>
+                <fieldset class="ffset" form="form1"> 
+                <div>ภาพสินค้า</div>
+                <br>
+                <button type="button" >ใส่รูปภาพ</button>
+                <br>
+                </fieldset>   
+                </form>      
+                <form>
+                <fieldset class="ffset" form="form1"> 
+                <div>คำอธิบายสินค้า</div>
+                <br>
+                    <input type="text" style=" width:500px;  height: 200px;" >
+                </fieldset>   
+                </form>   
+                <button type="button" >ส่ง</button>
+                </div>
+                
         </div>
     </div>
 
