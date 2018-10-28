@@ -102,9 +102,9 @@
         messagingSenderId: "560163102847"
     };
     firebase.initializeApp(config);
-    var provider = new firebase.auth.GoogleAuthProvider();
+    var provider1 = new firebase.auth.GoogleAuthProvider();
     function loginGoogle() {
-    firebase.auth().signInWithPopup(provider).then(function(result) {
+    firebase.auth().signInWithPopup(provider1).then(function(result) {
           var token = result.credential.accessToken;
     
         var user = result.user;
