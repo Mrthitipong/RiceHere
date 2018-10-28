@@ -19,7 +19,7 @@
                             </div>
                             <div class="main_nav">
                                 <ul>
-                                    <li class="active"><a href="../../first.php">หน้าหลัก</a></li>
+                                    <li class="active"><a href="../../index.php">หน้าหลัก</a></li>
                                     <li><a href="#">เกี่ยวกับเรา</a></li>
                                     <li><a href="#">ติดต่อเรา</a></li>
                                 </ul>
@@ -45,48 +45,13 @@
 <div class="row">
 
     <div class="col-6"  style="padding-left:120px;">
-        <b>ลงขายสินค้า</b>
+        <h2>ลงขายสินค้า</h2>
     </div>
 </div>
 <hr>
 
     <div class="row">
-<<<<<<< HEAD
-        <div class="col-6">
-=======
-<<<<<<< HEAD
-        <div class="col-10">
-            <div style="padding-left:20px;">
-            <form class="form-inline">
-                <div  class="form-group">
-                เลือกประเภท  &nbsp;<input type="text"><br>
-                </div>
-                <br>
-                <div  class="form-group">
-                ระบุจำนวน &nbsp;
-                <input type="text" name="lastname"><br>
-                </div>
-                <br>
-                <div  class="form-group">
-                 ระบุราคาต่อหน่วย &nbsp;
-                 <input type="text" name="lastname"><br>
-                 </div>
-                 <br>
-                 <div  class="form-group">
-                 ภาพสินค้า &nbsp;
-                 <input type="text" name="lastname"><br>
-                 </div>
-                 <br>
-                 <div  class="form-group">
-                 คำอธิบายสินค้า &nbsp;
-                 <input type="text" name="lastname"><br>
-                </div>
-            </form>
-        
-            </div>
-=======
-        <div class="col-7">
->>>>>>> origin/master
+    <div class="col-6">
             <ul style="list-style-type:none">
            
              <br>
@@ -102,7 +67,6 @@
                 <br>
                 <br>
                 <li>ระบุราคาต่อหน่วย</li>
-<<<<<<< HEAD
                 <input class="email_user"  type="text" name="uname">
                 </ul> 
                 </div>
@@ -112,7 +76,7 @@
                 <fieldset class="ffset" form="form1"> 
                 <div>ภาพสินค้า</div>
                 <br>
-                <button type="button" >ใส่รูปภาพ</button>
+                <button type="button" class="btn btn-primary">ใส่รูปภาพ</button>
                 <br>
                 </fieldset>   
                 </form>      
@@ -123,16 +87,10 @@
                     <input type="text" style=" width:500px;  height: 200px;" >
                 </fieldset>   
                 </form>   
-                <button type="button" >ส่ง</button>
+                <button type="button" class="btn btn-primary">ส่ง</button>
                 </div>
                 
-=======
-                <li>ภาพสินค้า</li>
-                <li>คำอธิบายสินค้า</li>
             </ul>  
->>>>>>> acc492bab9c2cdcdb4ec369e4a928431c97e1403
-
->>>>>>> origin/master
         </div>
     </div>
 

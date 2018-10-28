@@ -28,7 +28,7 @@
 							</div>
 							<div class="main_nav">
 								<ul>
-									<li><a href="first.php">หน้าหลัก</a></li>
+									<li><a href="index.php">หน้าหลัก</a></li>
 									<li><a href="#">เกียวกับเรา</a></li>
 									<li><a href="#">ติดต่อเรา</a></li>
 								</ul>

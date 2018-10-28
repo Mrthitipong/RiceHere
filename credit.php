@@ -19,7 +19,7 @@
                             </div>
                             <div class="main_nav">
                                 <ul>
-                                    <li class="active"><a href="first.php">หน้าหลัก</a></li>
+                                    <li class="active"><a href="index.php">หน้าหลัก</a></li>
                                     <li><a href="#">เกี่ยวกับเรา</a></li>
                                     <li><a href="#">ติดต่อเรา</a></li>
                                 </ul>
