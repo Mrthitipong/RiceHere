@@ -9,6 +9,19 @@ body, html {
 	padding-right: 200px;
 	margin-top: 200px;
 }
+.div1 {
+    width: 100px;
+    height: 100px;
+	border: 1px solid #c9a04d;
+	background: #000000;
+}
+.div2 {
+    width: 100px;
+    height: 100px;
+	border: 1px solid #c9a04d;
+	background: #000000;
+}
+
 .header
 {
 	position: fixed;
@@ -80,7 +93,7 @@ body, html {
 .main_nav ul li.active a,
 .main_nav ul li a:hover
 {
-	color: #2cd983;
+	color: #c9a04d;
 }
 
 
@@ -375,7 +388,7 @@ button {
 }
 .recent_item_title a:hover
 {
-	color: #3f6fce;
+	color: #0f0f0f;
 }
 .recent_item_price
 {
